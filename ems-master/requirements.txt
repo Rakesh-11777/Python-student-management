@@ -4,7 +4,7 @@
 whoosh
 django-haystack
 django-elasticsearch-dsl
-
+django-material==1.9
 altgraph==0.17.4
 annotated-types==0.7.0
 anyio==4.9.0
