@@ -49,7 +49,8 @@ INSTALLED_APPS = [
     'django_filters',
     # 'django_elasticsearch_dsl',
     'material.admin.default',
-    'material.theme.amber',
+    'material.theme',
+    'material.frontend',
     'material',
 ]
 
